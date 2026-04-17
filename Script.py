@@ -1,7 +1,11 @@
 class script(object):
     START_TXT = """ Hᴇʟʟᴏ {}.
-𝖨𝗆 𝖺𝗇 𝖺𝗎𝗍𝗈 𝖿𝗂𝗅𝗍𝖾𝗋 𝖻𝗈𝗍 𝗐𝗁𝗂𝖼𝗁 𝖼𝖺𝗇 𝗉𝗋𝗈𝗏𝗂𝖽𝖾 𝗆𝗈𝗏𝗂𝖾𝗌 𝗂𝗇 𝗒𝗈𝗎𝗋 𝗀𝗋𝗈𝗎𝗉𝗌.
-+ 𝖠𝖽𝖽 𝖬𝖾 𝖳𝗈 𝖸𝗈𝗎𝗋 𝖦𝗋𝗈𝗎𝗉 + 𝖺𝗇𝖽 𝗉𝗋𝗈𝗆𝗈𝗍𝖾 𝗆𝖾 𝖺𝗌 𝖺𝖽𝗆𝗂𝗇 𝗍𝗈 𝗅𝖾𝗍 𝗆𝖾 𝗀𝖾𝗍 𝗂𝗇 𝖺𝖼𝗍𝗂𝗈𝗇."""
+𝚂𝚎𝚗𝚍 𝚊𝚗𝚢 𝚖𝚘𝚟𝚒𝚎 𝚘𝚛 𝚜𝚎𝚛𝚒𝚎𝚜 𝚗𝚊𝚖𝚎 
+𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚕𝚜𝚘 𝚒𝚗𝚌𝚕𝚞𝚍𝚎 𝚢𝚎𝚊𝚛 𝚊𝚗𝚍 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 (𝚘𝚙𝚝𝚒𝚘𝚗𝚊𝚕)
+𝙴𝚡𝚊𝚖𝚙𝚕𝚎: 𝙻𝚎𝚘 𝟸𝟶𝟸𝟹 𝚃𝚊𝚖𝚒𝚕
+𝙻𝚎𝚘   → 𝙼𝚘𝚟𝚒𝚎 𝙽𝚊𝚖𝚎   
+𝟸𝟶𝟸𝟹  → 𝚈𝚎𝚊𝚛   
+𝚃𝚊𝚖𝚒𝚕 → 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎"""
     HELP_TXT = """
 <b>Hey {} 👋</b>
 
@@ -77,7 +81,7 @@ Each help page contains a short list for easy reading.
 • /set_template, /setskip, /clear_join_users"""
     ]
     ABOUT_TXT = """<b>
-◎ Cʀᴇᴀᴛᴏʀ: <a href=https://github.com/mntg4u> MN - TG</a>
+◎ Cʀᴇᴀᴛᴏʀ: <a href=https://t.me//settings> 😁</a>
 ◎ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
 ◎ Dᴀᴛᴀ Bᴀsᴇ: Mᴏɴɢᴏ DB
 ◎ Bᴏᴛ Sᴇʀᴠᴇʀ: KoYeb</b>"""
@@ -186,17 +190,6 @@ Added By - {}
 
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
-
-╔═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs   ═╗
- Jᴏɪɴ :- [MAIN CHANNEL](https://t.me/mn_movies2)
- Jᴏɪɴ :- [Movie Group 1](https://t.me/mn_movies3)
- Jᴏɪɴ :- [Movie Group 2](https://t.me/malayalam_movies_group2)
- Jᴏɪɴ :- [Movie Group 3](https://t.me/Netflix_Group3)
- Jᴏɪɴ :- [Movie Group 4](https://t.me/cinima_theerthadana_kendram)
- Jᴏɪɴ :- [Movie Group 5](https://t.me/malayalam_movies_nbot)
- Jᴏɪɴ :- [Movie Group 6](https://t.me/seriesgroups)
- Jᴏɪɴ :- [Movie Group 7](https://t.me/New_indian_cinemas)
-╚═  ᴊᴏɪɴ ᴡɪᴛʜ ᴜs    ═╝
 
 ⚠️ <b>This file will be deleted from here within 1 minute as it has copyright ... !!!</b>
 
